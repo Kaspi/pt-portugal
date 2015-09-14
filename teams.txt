@@ -4,24 +4,99 @@
 [porto]
   Porto|FC Porto
   // Porto
+  wikipedia:FC_Porto
 
 [braga]
   Braga|Sporting Braga
   // Braga
+  wikipedia:S.C._Braga
 
 [benfica]
   Benfica|Benfica Lisboa|Benfica Lissabon|Benfica Lis.
-  // Lisboa
+  // Lisbon
+  wikipedia:S.L._Benfica
 
 [sportinglisboa]    ## check - sporting key already in use ??
   Sporting Lisboa|Sporting CP|Sporting Clube de Portugal
   // Lisboa
+  wikipedia: Sporting_Clube_de_Portugal
+
+[maritimo]
+    CS Marítimo|Marítimo
+    // Funchal
+    wikipedia:C.S._Marítimo
 
 
-maritimo,         CS Marítimo
-nacionaldamadeira,  CD Nacional|Nacional da Madeira
-coimbra,            A. Académica de Coimbra
-ferreira,           FC Paços de Ferreira    # todo: change key to pacosferreira ???
+[nacionaldamadeira]
+    CD Nacional|Nacional da Madeira| Clube Desportivo Nacional
+    // Funchal
+    wikipedia:C.D._Nacional
 
-vitoriasc,            Vitória SC    ## fix: todo check if same as vitora fc?
-vitoriafc,            Vitória FC    ## fix: todo check if same as vitora sc?
+
+[coimbra]
+	A. Académica de Coimbra
+	// Coimbra
+	wikipedia:Associação_Académica_de_Coimbra_–_O.A.F.
+
+[ferreira]
+	FC Paços de Ferreira|Paços de Ferreira    # todo: change key to pacosferreira ???
+	// Porto
+	wikipedia:F.C._Paços_de_Ferreira
+
+
+[vitoriasc]
+	Vitória SC| Vitória de Guimarães    ## fix: todo check if same as vitora fc?
+	// Guimarães
+	wikipedia: Vitória_S.C.| 
+
+
+[vitoriafc]
+	Vitória FC|Vitória de Setúbal    ## fix: todo check if same as vitora sc?
+	// Setúbal
+	wikipedia:Vitória_F.C.
+
+
+[boavista]
+    Boavista|Boavista FC
+    // Porto
+    wikipedia:Boavista_F.C.
+
+[moreirense]
+   Moreirense| Moreirense F.C.,
+   // Moreira de Cónegos 
+   wikipedia:Moreirense F.C.		
+
+
+[uniaomadeira]
+   União da Madeira | Clube de Futebol União| C.F. União,		
+   // Funchal
+   wikipedia:C.F._União
+
+
+[rioave]
+	Rio Ave| Rio Ave Futebol Clube | Rio Ave F.C.
+	//  Vila do Conde
+	wikipedia:Rio_Ave_F.C.
+
+[arouca]
+   Arouca| Futebol Clube de Arouca| F.C. Arouca
+	// Arouca
+	wikipedia:F.C._Arouca
+
+
+[beleneses]
+   Belenenses | Clube de Futebol Os Belenenses| C.F. Os Belenenses,		
+   // Lisbon
+   wikipedia:C.F._Os_Belenenses
+
+
+[estoril]
+   Estoril | G.D. Estoril Praia| Grupo Desportivo Estoril Praia,		
+   // Estoril
+   wikipedia: G.D._Estoril_Praia
+
+
+[tondela]
+   Tondela | C.D. Tondela| Clube Desportivo de Tondela,	
+   // Tondela
+   wikipedia: C.D._Tondela
